@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <link rel="shortcut icon" href="/miniapp/favicon.ico" type="image/x-icon">
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <title>MiniApp</title>
+  <!-- <script src="https://cdn.jsdelivr.net/npm/eruda" onload="eruda.init()"></script> -->
+  <script type="module" crossorigin src="/miniapp/assets/index-DArZWDO8.js"></script>
+  <link rel="stylesheet" crossorigin href="/miniapp/assets/index-hY_0-Z_b.css">
+</head>
+
+<body>
+  <div id="app"></div>
+</body>
+
+</html>
